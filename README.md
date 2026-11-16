@@ -2,7 +2,7 @@
   
   <!-- Анимированный заголовок (можно заменить на статичную картинку/баннер) -->
   <p align="center">
-  <img src="./assets/rbxutility-banner-21x9.svg" alt="rbxutility — ROBLOX UTILITIES & DEV TOOLS" width="100%" />
+  <img src="./banner.svg" alt="rbxutility — ROBLOX UTILITIES & DEV TOOLS" width="100%" />
 </p>
 
   <p align="center">
